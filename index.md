@@ -19,23 +19,37 @@ The hand-curated dataset is in no means meant to advertise, categorize, or promo
 
 We had 60,442,735 tweets combined from March and April 2020. We applied filters to narrow down to tweets that were in English, were tagged with a location, and shared a URL. In some cases the URL that was shared was to another tweet - this is how Twitter's API represents retweeted tweets. After applying filters, we were left with 177,279 tweets. From these tweets, we grouped all the tweets by a common URL. Then for every URL, we printed out the URL and the text of the tweet that referenced that URL. A keyword search was then performed on the text of the tweets by URL - keywords used include: _"cure"_, _"oil"_, _"tea"_, _"mask"_, _"natural"_, _"traditional"_, and _"prevent"_. If a tweet or URL matched one of the keywords, they were briefly further investigated - if they seemed relevant, they were labeled and added to the dataset. 
 
+***Political Affiliation***
+
+Every tweet in our dataset references a URL. There are a few different cases of URLs that are present in this dataset. Below is a list of occurences that a URL appears:
+1) *Retweeted URLs/Narratives*
+  a) Retweeted news article tweeted by a regular Twitter user
+  b) Retweeted news article tweeted by a news agency account on Twitter
+  c) Retweeted commentary by political figures or well-known CEOs relating to COVID-19 **narratives** or **claims**
+2) *Tweeted URLs/Narratives*
+  a) Tweeted news article by a regular Twitter user
+  b) Tweeted news article by a news agency account
+  
+In order to label URLs with a poltical affiliation, the URLs were manually searched for in the [NELA-GT-2019](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7FWPO) dataset using the AllSide Bias label. _Side Note: NELA-GT-2019 Dataset is a "A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles"_. URLs in this dataset categorized as _"Lean Left"_ or _"Lean Right"_ from AllSides Bias label were relabeled as _"Left"_ or "Right"_ respectively. 
+
 ### Narrative-Mapping Visualization
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katelyn98/COVID-19-Narrative-Mapping/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(Information about this Figure here)
 
 ### Metadata Analysis Visualizations
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Information about this Figure here)
 
 ### How to View our Visualization
 
 **IQT Internal Employees** 
 
-Visit this [GitLab Repo]() (**add link**) to view the internal Narrative-Mapping Visualization. Make sure you are signed on to the VPN or it will not work. 
+Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative-Mapping Visualization. Make sure you are signed on to the VPN or it will not work. 
 
 **External Use** 
 
-Visit the public version of our Narrative-Mapping Visualization [here]() (**add link**)
+***COMING SOON***
+Check back soon to visit the public version of our Narrative-Mapping Visualization once it's released! 
 
 
 
