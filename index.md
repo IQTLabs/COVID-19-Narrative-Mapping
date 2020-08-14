@@ -17,7 +17,7 @@ The hand-curated dataset is in no means meant to advertise, categorize, or promo
 
 ***Filtering***
 
-We had 60,442,735 tweets combined from March and April 2020. We applied filters to narrow down to tweets that were in English, were tagged with a location, and shared a URL. In some cases the URL that was shared was to another tweet - this is how Twitter's API represents retweeted tweets. After applying filters, we were left with 177,279 tweets. From these tweets, we grouped all the tweets by a common URL. Then for every URL, we printed out the URL and the text of the tweet that referenced that URL. A keyword search was then performed on the text of the tweets by URL - keywords used include: "_cure_", "_oil_", "_tea_", "_mask_", "_natural_", "_traditional_", and "_prevent_". If a tweet or URL matched one of the keywords, they were briefly further investigated - if they seemed relevant, they were labeled and added to the dataset. 
+We had 60,442,735 tweets combined from March and April 2020. We applied filters to narrow down to tweets that were in English, were tagged with a location, and shared a URL. In some cases the URL that was shared was to another tweet - this is how Twitter's API represents retweeted tweets. After applying filters, we were left with 177,279 tweets. From these tweets, we grouped all the tweets by a common URL. Then for every URL, we printed out the URL and the text of the tweet that referenced that URL. A keyword search was then performed on the text of the tweets by URL - keywords used include: _"cure"_, _"oil"_, _"tea"_, _"mask"_, _"natural"_, _"traditional"_, and _"prevent"_. If a tweet or URL matched one of the keywords, they were briefly further investigated - if they seemed relevant, they were labeled and added to the dataset. 
 
 ### Narrative-Mapping Visualization
 
@@ -26,3 +26,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Metadata Analysis Visualizations
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### How to View our Visualization
+
+**IQT Internal Employees** 
+
+Visit this [GitLab Repo]() (**add link**) to view the internal Narrative-Mapping Visualization. Make sure you are signed on to the VPN or it will not work. 
+
+**External Use** 
+
+Visit the public version of our Narrative-Mapping Visualization [here]() (**add link**)
+
+
+
