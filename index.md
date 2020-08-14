@@ -42,6 +42,3 @@ Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the int
 
 ***COMING SOON***
 Check back soon to visit the public version of our Narrative-Mapping Visualization once it's released! 
-
-
-
