@@ -13,7 +13,7 @@ The current visualization presents a variety of narratives related to claims for
 
 ### Hand-Curated Labeled Dataset
 
-The hand-curated dataset is in no means meant to advertise, categorize, or promote trends of information - it is solely used for assisting in the development of the narrative-mapping visualization. This dataset does not also take into account sarcasm, jokes, or the validity of statements/URLs. Any tweet/URL talking about the narrative that was deemed relevant was added to the dataset. This hand-curated dataset consisted of 779 tweets that were hand-picked and manually labeled from March and April 2020. The twitter data was hydrated from this [COVID-19 Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs). To view specific code on how this dataset was created, view our open source [GitHub repository]() (**add link**). 
+The hand-curated dataset is in no means meant to advertise, categorize, or promote trends of information - it is solely used for assisting in the development of the narrative-mapping visualization. This dataset does not also take into account sarcasm, jokes, or the validity of statements/URLs. Any tweet/URL talking about the narrative that was deemed relevant was added to the dataset. This hand-curated dataset consisted of 779 tweets that were hand-picked and manually labeled from March and April 2020. The twitter data was hydrated from this [COVID-19 Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs). To view specific code on how this dataset was created, view our open source [GitHub repository]() (***COMING SOON***). 
 
 ***Filtering***
 
@@ -36,7 +36,7 @@ In order to label URLs with a poltical affiliation, the URLs were manually searc
 
 **IQT Internal Employees** 
 
-Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative-Mapping Visualization. Make sure you are signed on to the VPN or it will not work. 
+Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative-Mapping Visualization. You can also view all the code behind this project on [GitLab](https://gitlab.iqt.org/labs/lab41/claim-mapping). Make sure you are signed on to the VPN or it will not work.
 
 **External Use** 
 
