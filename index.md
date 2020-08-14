@@ -13,23 +13,10 @@ The current visualization presents a variety of narratives related to claims for
 
 ### Hand-Curated Labeled Dataset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The hand-curated dataset is in no means meant to advertise, categorize, or promote trends of information - it is solely used for assisting in the development of the narrative-mapping visualization. This dataset does not also take into account sarcasm, jokes, or the validity of statements/URLs. Any tweet/URL talking about the narrative that was deemed relevant was added to the dataset. This hand-curated dataset consisted of 779 tweets that were hand-picked and manually labeled from March and April 2020. The twitter data was hydrated from this [COVID-19 Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs). To view specific code on how this dataset was created, view our open source [GitHub repository]() (**add link**). 
 
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+***Filtering***
+We had 60,442,735 tweets combined from March and April 2020. We applied filters to narrow down to tweets that were in English, were tagged with a location, and shared a URL. In some cases the URL that was shared was to another tweet - this is how Twitter's API represents retweeted tweets. After applying filters, we were left with 177,279 tweets. From these tweets, we grouped all the tweets by a common URL. Then for every URL, we printed out the URL and the text of the tweet that referenced that URL. A keyword search was then performed on the text of the tweets by URL - keywords used include: "_cure_", "_oil_", "_tea_", "_mask_", "_natural_", "_traditional_", and "_prevent_". If a tweet or URL matched one of the keywords, they were briefly further investigated - if they seemed relevant, they were labeled and added to the dataset. 
 
 ### Narrative-Mapping Visualization
 
