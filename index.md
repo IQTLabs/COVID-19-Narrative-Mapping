@@ -32,14 +32,6 @@ Every tweet in our dataset references a URL. There are a few different cases of 
   
 In order to label URLs with a poltical affiliation, the URLs were manually searched for in the [NELA-GT-2019](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7FWPO) dataset using the AllSide Bias label. _Side Note: NELA-GT-2019 Dataset is a "A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles"_. URLs in this dataset categorized as _"Lean Left"_ or _"Lean Right"_ from AllSides Bias label were relabeled as _"Left"_ or "Right"_ respectively. Some political figures were also given a poltiical affiliation of the polticial party they are currently associated with. 
 
-### Narrative-Mapping Visualization
-
-(Information about this Figure here)
-
-### Metadata Analysis Visualizations
-
-(Information about this Figure here)
-
 ### How to View our Visualization
 
 **IQT Internal Employees** 
