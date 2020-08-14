@@ -1,4 +1,4 @@
-## Welcome to our COVID-19 Narrative Mapping Visualizatoin
+## Welcome to our COVID-19 Narrative Mapping Visualization
 
 This is our supplementary guide where you can find information on how this visualization was created, what this visualization should be used for, and what it should not be used for. Any direct questions about the visualization should be directed to [@Katelyn98](https://github.com/katelyn98).
 
