@@ -1,4 +1,4 @@
-## Welcome to our COVID-19 Narrative Mapping Visualization
+## Welcome to our COVID-19 Narrative & Claim-Mapping Visualization
 
 This is our supplementary guide where you can find information on how this visualization was created, what this visualization should be used for, and what it should not be used for. Any direct questions about the visualization should be directed to [@Katelyn98](https://github.com/katelyn98).
 
@@ -8,8 +8,6 @@ Some distanctions between defintions in regards to our visualization:
 - **Narrative** ~ A specific subjective statement being made in an objective context
   - These are more specific and considered as a child category. THere have been several narratives spreading related to specific claims made during the current Coronavirus Pandemic. 
   - An example of a narrative within the claims for cures category is: _"Hot whiskey mixed with honey cures Coronavirus"_
-
-The current visualization presents a variety of narratives related to claims for cures. 
 
 ### Hand-Curated Labeled Dataset
 
@@ -36,9 +34,9 @@ In order to label URLs with a poltical affiliation, the URLs were manually searc
 
 **IQT Internal Employees** 
 
-Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative-Mapping Visualization. You can also view all the code behind this project on [GitLab](https://gitlab.iqt.org/labs/lab41/claim-mapping). Make sure you are signed on to the VPN or it will not work.
+Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative & Claim-Mapping Visualization. You can also view all the code behind this project on [GitLab](https://gitlab.iqt.org/labs/lab41/claim-mapping). Make sure you are signed on to the VPN or it will not work.
 
 **External Use** 
 
 ***COMING SOON***
-Check back soon to visit the public version of our Narrative-Mapping Visualization once it's released! 
+Check back soon to visit the public version of our Narrative & Claim-Mapping Visualization once it's released! 
