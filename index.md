@@ -3,11 +3,12 @@
 This is our supplementary guide where you can find information on how this visualization was created, what this visualization should be used for, and what it should not be used for. Any direct questions about the visualization should be directed to [@Katelyn98](https://github.com/katelyn98).
 
 Some distinctions between defintions in regards to our visualization: 
-- **Claim** ~ A subjective generalized statement being made in objective context
-  - These are more general and considered as a parent category. There have been several claims spreading related to the current Coronavirus Pandemic about Origin Stories, Cures and Treatments, etc. 
-- **Narrative** ~ A specific subjective statement being made in an objective context
-  - These are more specific and considered as a child category. There have been several narratives spreading related to specific claims made during the current Coronavirus Pandemic. 
-  - An example of a narrative within the claims for cures category is: _"Hot whiskey mixed with honey cures Coronavirus"_
+- **Topic** ~ A category generalizing a group of narratives
+  - Example of topics include Cures, Preventions, and Origns.
+- **Narrative** ~ A specific category grouping several claims within a given topic
+  - Example of narratives for Cures include using natural oils/herbs, whiskey mixed with honey, or disinfectants. 
+ - **Claim** ~ A subjective generalized statement being made in objective context 
+    - Example of a narrative within the claims for cures category is: _"Hot whiskey mixed with honey cures Coronavirus"_
 
 ### Hand-Curated Labeled Dataset
 
