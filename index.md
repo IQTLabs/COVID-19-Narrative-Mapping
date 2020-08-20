@@ -12,7 +12,7 @@ Some distinctions between defintions in regards to our visualization:
 
 ### Hand-Curated Labeled Dataset
 
-The hand-curated dataset is in no means meant to advertise, categorize, or promote trends of information - it is solely used for assisting in the development of the narrative-mapping visualization. This dataset does not also take into account sarcasm, jokes, or the validity of statements/URLs. Any tweet/URL talking about the narrative that was deemed relevant was added to the dataset. This hand-curated dataset consisted of 779 tweets that were hand-picked and manually labeled from March and April 2020. The twitter data was hydrated from this [COVID-19 Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs). To view specific code on how this dataset was created, view our open source [GitHub repository]() (***COMING SOON***). 
+The hand-curated dataset is in no means meant to advertise, categorize, or promote trends of information - it is solely used for assisting in the development of the narrative-mapping visualization. This dataset does not also take into account sarcasm, jokes, or the validity of statements/URLs. Any tweet/URL talking about the narrative that was deemed relevant was added to the dataset. This hand-curated dataset consisted of 563 tweets that were hand-picked and manually labeled from March and April 2020. The twitter data was hydrated from this [COVID-19 Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs). To view specific code on how this dataset was created, view our open source [GitHub repository]() (***COMING SOON***). 
 
 ***Filtering***
 
