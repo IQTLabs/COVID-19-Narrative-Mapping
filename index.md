@@ -37,7 +37,7 @@ In order to label URLs with a poltical affiliation, we searched for the domain i
 
 Visit this [link](https://vsrv-plotly.a.internal/claim-mapping/) to view the internal Narrative & Claim-Mapping Visualization. You can also view all the code to run this visualization at [GitLab](https://gitlab.iqt.org/labs/lab41/claim-mapping). Make sure you are signed on to the VPN or it will not work.
 
-**External Use** 
+**External Visitors** 
 
 ***COMING SOON***
 Check back soon to visit the public version of our Narrative & Claim-Mapping Visualization once it's released! 
