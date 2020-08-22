@@ -21,13 +21,13 @@ We started with 92,783,762 tweets from March, April, and May 2020. We applied fi
 ***Political Affiliation***
 
 Every tweet in the displayed dataset references a URL. Below is a list of the ways in which a URL can appear:  
-1) *Retweeted URLs/Narratives*  
-    a) Retweeted news article tweeted by a regular Twitter user.  
-    b) Retweeted news article tweeted by a news agency account on Twitter.  
-    c) Retweeted commentary by political figures or well-known individuals relating to COVID-19 **narratives** or **claims**.  
-2) *Tweeted URLs/Narratives*  
-    a) Tweeted news article by a regular Twitter user.  
-    b) Tweeted news article by a news agency account.  
+1. *Retweeted URLs/Narratives*  
+    a. Retweeted news article tweeted by a regular Twitter user.  
+    b. Retweeted news article tweeted by a news agency account on Twitter.  
+    c. Retweeted commentary by political figures or well-known individuals relating to COVID-19 **narratives** or **claims**.  
+2. *Tweeted URLs/Narratives*  
+    a. Tweeted news article by a regular Twitter user.  
+    b. Tweeted news article by a news agency account.  
   
 In order to label URLs with a poltical affiliation, we searched for the domain in the [NELA-GT-2019](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7FWPO) dataset using the AllSide Bias label. _Side Note: NELA-GT-2019 Dataset is a "A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles"_. URLs in this dataset categorized as _"Lean Left"_ or _"Lean Right"_ from AllSides Bias label were relabeled as _"Left"_ or _"Right"_ respectively. Some political figures were also tagged with their current political party affiliation. 
 
